@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/starcraft2/Marine/marinebody1_red"
+	"$bumpmap" "models/starcraft2/Marine/marinebody1_normal"
+	
+	"$phongexponent" "5"
+ 	"$halflambert" "1"
+	"$phong" "1"
+        "$phongtint" "[0.40 0.45 0.40]"
+	"$phongboost"	"3.5"
+	"$phongfresnelranges"	"[.35 .35 .40]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "150"
+	"$rimlightboost" "0.50"
+
+	$color2 "[1.5 1.5 1.5]"
+	$ambientocclusion 1
+	$phong 1
+	$detail "models/starcraft2/Marine/marinebody_glow"
+	$detailscale 1
+	$detailblendfactor "3"
+	$detailblendmode 5
+
+}
